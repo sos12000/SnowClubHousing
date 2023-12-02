@@ -1,0 +1,3 @@
+[DEFAULT]
+NumberOfRandomIterations = 100
+OutputPathname = "output"
